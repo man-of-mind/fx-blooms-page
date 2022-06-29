@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fx-blooms-page/static/css/main.91ea2dc5.css",
+    "main.js": "/fx-blooms-page/static/js/main.1a616c48.js",
+    "static/media/naira.svg": "/fx-blooms-page/static/media/naira.8b3277c74e81293b44fd727817fea411.svg",
+    "static/media/security-access.svg": "/fx-blooms-page/static/media/security-access.493ed68213cdd1b708953e4f05c90793.svg",
+    "static/media/warning.svg": "/fx-blooms-page/static/media/warning.83efe8bce3b76668d276ff84940c1599.svg",
+    "static/media/european-union.svg": "/fx-blooms-page/static/media/european-union.068802c383d1acc37cc4715f54a55db4.svg",
+    "static/media/wallet.svg": "/fx-blooms-page/static/media/wallet.ac4a6691f507878c6b32df00f0507469.svg",
+    "index.html": "/fx-blooms-page/index.html",
+    "static/media/FacebookIcon.svg": "/fx-blooms-page/static/media/FacebookIcon.72e5206145c3fa1edce96f48d492db0b.svg",
+    "static/media/notification.svg": "/fx-blooms-page/static/media/notification.d9a2ad0b83a31dc63df69f9977dd7fce.svg",
+    "static/media/dashboard.svg": "/fx-blooms-page/static/media/dashboard.543dec22f2aebbbb14eb5992f3e67a14.svg",
+    "static/media/logout.svg": "/fx-blooms-page/static/media/logout.eb5319c3572eb10416831bceae528cbf.svg",
+    "static/media/important.svg": "/fx-blooms-page/static/media/important.4a8cf4e62dbbabed25686973008a395e.svg",
+    "static/media/transaction.svg": "/fx-blooms-page/static/media/transaction.fb3c047ad4be9bbf37738df666d86c86.svg",
+    "static/media/person.svg": "/fx-blooms-page/static/media/person.7024a684bd464d718816777207acf96b.svg",
+    "static/media/nigeria.svg": "/fx-blooms-page/static/media/nigeria.b512e6e94abc1da960097d07015541e1.svg",
+    "static/media/account-balance.svg": "/fx-blooms-page/static/media/account-balance.ce44136677b5f9a0af8b652b46a08014.svg",
+    "main.91ea2dc5.css.map": "/fx-blooms-page/static/css/main.91ea2dc5.css.map",
+    "main.1a616c48.js.map": "/fx-blooms-page/static/js/main.1a616c48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91ea2dc5.css",
+    "static/js/main.1a616c48.js"
+  ]
+}
