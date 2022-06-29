@@ -1,0 +1,110 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.fixed {
+    position: fixed;
+    top: 40px;
+    bottom: 0;
+    min-height: 0 !important;
+    .sideBar {
+        overflow-y: scroll;
+        overflow-x: hidden;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+        width: 200px;
+        height: 100%;
+        background-color: rgba(230, 241, 222, 0.726);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-left: 15px;
+        padding-right: 15px;
+        .fx-booms-logo {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            margin-bottom: 30px;
+            h4 {
+                margin-left: 10px;
+                color: rgb(5, 85, 5);
+            }
+        }
+        section {
+            display: flex;
+            flex-direction: row;
+            width: 170px;
+            margin: 10px 2px;
+            padding: 10px 25px;
+            border-radius: 4px;
+            svg {
+                width: 24px;
+                height: 24px;
+                padding-left: 15px;
+            }
+            span {
+                margin-left: 10px;
+                font-weight: 500;
+            }
+        }
+        section:hover {
+            background-color: rgb(5, 85, 5);
+            color: white;
+            svg {
+                fill: white;
+            }
+        }
+        .user-details {
+            margin-top: 100px;
+            section {
+                display: flex;
+                flex-direction: row;
+                width: 170px;
+                margin: 10px 2px;
+                padding: 10px 25px;
+                border-radius: 4px;
+                svg {
+                    width: 24px;
+                    height: 24px;
+                    padding-left: 15px;
+                }
+                span {
+                    margin-left: 10px;
+                    font-weight: 500;
+                }
+            }
+            section:hover {
+                background-color: rgb(5, 85, 5);
+                color: white;
+                svg {
+                    fill: white;
+                }
+            }
+        }
+        .user {
+            margin-top: 40px;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: start;
+            figure {
+                margin-left: 35px;
+                margin-right: 5px;
+                img {
+                    border-radius: 50%;
+                    width: 30px;
+                    height: 30px;
+                    margin: auto;
+                }
+            }
+            span {
+                margin-left: 10px;
+            }
+        }
+    }
+    .sideBar::-webkit-scrollbar {
+        display: none;
+    }
+}

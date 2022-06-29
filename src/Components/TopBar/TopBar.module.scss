@@ -1,0 +1,25 @@
+.topbar {
+    display: flex;
+    margin: 0px;
+    height: 40px;
+    color: white;
+    background-color: rgb(5, 85, 5);
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0px;
+    width: 100vw;
+    p {
+        margin: 0;
+        text-align: center;
+        a {
+            color: white;
+        }
+    }
+    svg {
+        width: 24px;
+        height: 24px;
+        fill: red;
+        padding-right: 10px;
+    }
+}
